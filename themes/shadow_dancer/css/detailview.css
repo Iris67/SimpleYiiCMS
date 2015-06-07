@@ -1,0 +1,9 @@
+table.detail-view tr.even
+{
+	background: #F9F9F9;
+}
+
+table.detail-view tr.odd
+{
+	background:#F1F1F1;
+}
