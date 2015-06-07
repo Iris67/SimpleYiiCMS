@@ -13,10 +13,14 @@
 2. Создайте базу данных.
 3. Импортируйте таблицы в БД, выполнив SQL-выражения из файла /protected/data/yiicms_host.sql.
 4. В /protected/main.php пропишите имя хоста, имя созданной БД, имя пользователя БД, пароль пользователя БД.
+5. Создайте папку assets в корневой директории.
 
-Пользователи, которые уже есть в устанавливаемой CMS:
-Пользователь	Пароль		Роль
-admin			admin		admin
-editor			editor		editor
-author			author		author
-demo			demo		subscriber
+Пользователи, которые уже есть в устанавливаемой CMS ( Пользователь-Пароль-Роль ):
+1. admin - admin - admin
+2. editor - editor - editor
+3. author - author - author
+4. demo - demo - subscriber
+
+
+
+
